@@ -15,3 +15,7 @@ The tkinter.messagebox module provides a template base class as well as a variet
 For integers, there is uniform selection from a range. For sequences, there is uniform selection of a random element, a function to generate a random permutation of a list in-place, and a function for random sampling without replacement.
 # import time:
 In Python, the time() function returns the number of seconds passed since epoch (the point where time begins).
+
+
+#Project:
+Just copy the code install these library and run the project a restaurant management system for data structure course made on python
