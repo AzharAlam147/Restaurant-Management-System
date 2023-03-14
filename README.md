@@ -17,5 +17,5 @@ For integers, there is uniform selection from a range. For sequences, there is u
 In Python, the time() function returns the number of seconds passed since epoch (the point where time begins).
 
 
-#Project:
+# Project:
 Just copy the code install these library and run the project a restaurant management system for data structure course made on python
